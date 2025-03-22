@@ -1,4 +1,4 @@
-# Swing Project
+# 🏥 Swing Project
 
 This is a Java Swing-based application for [your project purpose].  
 
