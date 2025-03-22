@@ -28,6 +28,9 @@
 
 ## Screenshots  
 ![Screenshot 2025-03-22 010735](https://github.com/user-attachments/assets/7bffa4f2-56e0-4c3c-9ee7-915ac56f26d4)
+![Screenshot 2025-03-22 011219](https://github.com/user-attachments/assets/ad4cc86b-1f43-479b-a33a-a2053ad4472e)
+
+
 
 
 ## Author  
