@@ -3,9 +3,9 @@
 This is a Java Swing-based application for [your project purpose].  
 
 ## Features
-✅ Feature 1  
-✅ Feature 2  
-✅ Feature 3  
+🔸 Patient registration and management 🏥
+🔸 Secure login & user management 🔐
+🔸 Interactive and user-friendly desktop interface 🎨
 
 ## How to Run
 1. Download the project  
@@ -14,12 +14,12 @@ This is a Java Swing-based application for [your project purpose].
 
 ## Technologies Used
 - Java Swing  
-- [Any database if used]  
-- [Any additional libraries]  
+- MySQL 
+- Java Database Connectivity 
 
 ## Screenshots  
 (Upload UI images here)  
 
 ## Author  
-👤 [Your Name]  
-📧 [Your Email]  
+👤 Harshal Thorat 
+📧 htfj77@gmail.com  
