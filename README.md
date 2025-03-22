@@ -30,6 +30,6 @@
 
 
 ## Author  
-👤 Harshal Thorat 
-📧 htfj77@gmail.com 
+👤 Harshal Thorat
+📧 htfj77@gmail.com
 🔗 https://www.linkedin.com/in/harshal-thorat-7january2005
