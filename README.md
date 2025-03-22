@@ -1,8 +1,17 @@
-# 🏥 Swing Project
+# 🏥 Hospital Management System (Java Swing)
 
-This is a Java Swing-based application for [your project purpose].  
+## 📌 Overview
+🔹 A **Java Swing-based Hospital Management System** designed to manage hospital operations efficiently. It includes:
 
-## Features
+✅ Patient Registration & Management
+
+✅ Doctor Scheduling & Records
+
+✅ Appointment Booking System
+
+✅ Billing & Payment Tracking
+
+## 🚀 Features
 🔸 Patient registration and management 🏥
 🔸 Secure login & user management 🔐
 🔸 Interactive and user-friendly desktop interface 🎨
@@ -18,8 +27,9 @@ This is a Java Swing-based application for [your project purpose].
 - Java Database Connectivity 
 
 ## Screenshots  
-(Upload UI images here)  
+
 
 ## Author  
 👤 Harshal Thorat 
-📧 htfj77@gmail.com  
+📧 htfj77@gmail.com 
+🔗 https://www.linkedin.com/in/harshal-thorat-7january2005
